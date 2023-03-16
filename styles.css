@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+    font-weight: bold;
+    font-size: 32px
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+}
+.container{
+    display: flex;
+    margin-left: 20px;
+    
+}
+
+.breadcrumb{
+    color: #565959;
+    font-size: 18px
+}
+
+.metadata{
+    margin: 50px 25px 0px 42px;
+}
+
+.author{
+    color: #007185
+}
+
+.main-para{
+    margin-top: 25px;
+    margin-bottom: 50px;
+    font-size: 22px;
+
+}
